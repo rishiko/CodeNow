@@ -120,7 +120,7 @@ Send2Trash==1.8.0
 simplecfg==2.0.0
 six==1.16.0
 sklearn==0.0
-sortedmultiset==1.0.1
+sortedmultiset==1.1.1
 sqlparse==0.4.2
 stack-data==0.1.4
 tensorboard==2.8.0
